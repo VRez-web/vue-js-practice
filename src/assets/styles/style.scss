@@ -1,0 +1,9 @@
+@import "./_vars";
+
+.btn{
+    padding: $padding $padding*2;
+    background: $green-bg;
+    color:#fff;
+    border: none;
+    border-radius: $radius;
+}
